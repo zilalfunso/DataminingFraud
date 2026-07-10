@@ -1,0 +1,20 @@
+# Dataset (jangan commit file besar PaySim)
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+*.log
